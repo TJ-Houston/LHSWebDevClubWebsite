@@ -1,1 +1,6 @@
-
+text-align: center;
+.p{
+  font-family: sans-serif;
+  color: red;
+}
+background-image: linear-gradient(red, blue);
